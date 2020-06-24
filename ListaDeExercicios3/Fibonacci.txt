@@ -1,0 +1,15 @@
+| Termo nº 1 = 1 |
+| Termo nº 2 = 1 |
+| Termo nº 3 = 2 |
+| Termo nº 4 = 3 |
+| Termo nº 5 = 5 |
+| Termo nº 6 = 8 |
+| Termo nº 7 = 13 |
+| Termo nº 8 = 21 |
+| Termo nº 9 = 34 |
+| Termo nº 10 = 55 |
+| Termo nº 11 = 89 |
+| Termo nº 12 = 144 |
+| Termo nº 13 = 233 |
+| Termo nº 14 = 377 |
+| Termo nº 15 = 610 |
