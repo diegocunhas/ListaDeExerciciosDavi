@@ -11,7 +11,8 @@ package listadeexercicios2;
 
 /**
  *
- * @author Diego da Cunha Silva
+ * @author Diego da Cunha Silva         - Ra 1290481923021
+ * @author Maria Luixa da Silva Augusto - Ra 1290482013029
  */
 import java.util.Scanner;
 public class VetorInvertido {
